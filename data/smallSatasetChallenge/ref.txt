@@ -1,0 +1,2 @@
+https://www.kaggle.com/competitions/dont-overfit-ii
+https://www.kaggle.com/code/rafjaa/dealing-with-very-small-datasets/notebook
